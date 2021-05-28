@@ -1,1 +1,1 @@
-# wp_github
+# mywordpress
